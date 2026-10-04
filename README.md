@@ -1,6 +1,6 @@
 # CesiumOptimizedLeaf
 
-Optimized Leaf for CesiumMC. Currently 1.21.4 only.
+Optimized Leaf for CesiumMC (CesiumOptimizedLeaf). Currently 1.21.4 only.
 
 ## Tested hardware:
 
